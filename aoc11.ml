@@ -1,3 +1,5 @@
+(* alternative the operation can be a polynomial *)
+
 type 'a monkey = {
   name: 'a;
   items: int list;
