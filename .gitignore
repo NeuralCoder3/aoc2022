@@ -260,3 +260,4 @@ poetry.toml
 
 T.txt
 *.log
+*tmp*
