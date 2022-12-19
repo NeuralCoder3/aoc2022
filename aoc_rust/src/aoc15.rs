@@ -1,3 +1,5 @@
+// automatically transpiled from python using semantical preservation
+
 use regex::Regex;
 use std::fs::File;
 use std::io::{BufRead, BufReader};
